@@ -89,7 +89,7 @@ This was a full Design Technology project, not only the code:
 ## Credits
 
 - Font: [VT323](https://fonts.google.com/specimen/VT323) by The VT323 Project Authors, SIL Open Font License.
-- Some setup code and ideas came from a Pygame platformer tutorial: [Long: add the tutorial link].
+- Some setup code and ideas came from a Pygame platformer tutorial.
 - Existing products analysed: *Jump King*, *Celeste*, *Aquation*.
 
 <p>
