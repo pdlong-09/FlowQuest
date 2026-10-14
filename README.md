@@ -79,10 +79,6 @@ This was a full Design Technology project, not only the code:
    - Then I switched to Pygame because it was easier to work with.
    - Then I built the title screens, the terrain, the player physics, the camera, the water counter, the text-based level and the win screen, roughly in that order.
 
-## What I learned
-
-[Long: 2–3 sentences in your own words. For example, the text-grid level idea, the player physics, or what you'd do differently now.]
-
 ## Limitations
 
 - **There's only one level**, and the game closes itself a few seconds after you win. There's no menu, pause or restart.
